@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: flex-start;
+  align-items: center;
+  background-size: cover;
+}
+
+.H1{
+  color: rgb(113, 255, 113);
+}
+
+.img{
+  border-radius: 100%;
+  height: 277px;
+  width: 277px;
+}
+
+.Bio{
+  text-align: center;
+  color: rgb(255, 221, 29);
+}
