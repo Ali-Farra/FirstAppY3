@@ -1,9 +1,22 @@
-.App {
+/* .App {
   display: flex;
   flex-direction: column;
   text-align: flex-start;
   align-items: center;
   background-size: cover;
+  background-color: rgb(59, 104, 250);
+}
+
+.Facebook{
+  background-color: rgb(253, 216, 4);
+  border-radius: 40px;
+  width: 100px;
+  height: 50px;
+}
+
+.FBlink{
+  color: black;
+  text-decoration: wavy;
 }
 
 .H1{
@@ -19,4 +32,4 @@
 .Bio{
   text-align: center;
   color: rgb(255, 221, 29);
-}
+} */
